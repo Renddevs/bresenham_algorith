@@ -1,0 +1,15 @@
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\bin\Debug\net6.0\algoritmaBresenham.exe
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\bin\Debug\net6.0\algoritmaBresenham.deps.json
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\bin\Debug\net6.0\algoritmaBresenham.runtimeconfig.json
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\bin\Debug\net6.0\algoritmaBresenham.dll
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\bin\Debug\net6.0\algoritmaBresenham.pdb
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.csproj.AssemblyReference.cache
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.AssemblyInfoInputs.cache
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.AssemblyInfo.cs
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.csproj.CoreCompileInputs.cache
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.dll
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\refint\algoritmaBresenham.dll
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.pdb
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\algoritmaBresenham.genruntimeconfig.cache
+D:\Project\login-net\algoritmaBresenham\algoritmaBresenham\obj\Debug\net6.0\ref\algoritmaBresenham.dll
